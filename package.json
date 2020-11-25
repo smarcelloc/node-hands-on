@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "guid": "^0.0.12",
+    "request": "^2.88.2"
+  }
+}
