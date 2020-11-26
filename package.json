@@ -4,5 +4,15 @@
     "guid": "^0.0.12",
     "node-fetch": "^2.6.1",
     "request": "^2.88.2"
-  }
+  },
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "pre-commit": "^1.2.2"
+  },
+  "scripts": {
+    "testando": "jest pre-commit"
+  },
+  "pre-commit": [
+    "testando"
+  ]
 }
