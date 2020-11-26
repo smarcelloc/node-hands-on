@@ -6,7 +6,7 @@ const apiUrlPost = 'https://httpbin.org/post'
 fetch(apiUrl)
   .then(res => res.json())
   .then(json => console.log(json))
-  .catch(err => { console.log(err); process.exit(1); });
+  .catch(err => { console.log(err); process.exit(1) })
 
 fetch(apiUrlPost, {
   method: 'POST',
@@ -16,7 +16,6 @@ fetch(apiUrlPost, {
   }
 })
   .then(json => console.log(json))
-  .catch(err => { console.log(err); process.exit(1); });
-
+  .catch(err => { console.log(err); process.exit(1) })
 
 // Atenção: node-fetch vs windows.fetch (browser)
