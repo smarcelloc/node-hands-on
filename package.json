@@ -1,4 +1,6 @@
 {
+  "license": "ISC",
+  "private": true,
   "dependencies": {
     "chalk": "^4.1.0",
     "cheerio": "^1.0.0-rc.3",
@@ -13,7 +15,9 @@
     "shelljs": "^0.8.4"
   },
   "devDependencies": {
+    "faker": "^5.1.0",
     "jest": "^26.6.3",
+    "json-server": "^0.16.3",
     "nodemon": "^2.0.6",
     "pre-commit": "^1.2.2",
     "snazzy": "^9.0.0",
@@ -24,11 +28,10 @@
     "style": "yarn style:fix && yarn style:check",
     "style:check": "standard | snazzy",
     "style:fix": "standard --fix",
-    "git:add": "node git.js"
+    "json:server": "json-server --watch json-server/server.json"
   },
   "pre-commit": [
     "testando",
-    "style",
-    "git:add"
+    "style"
   ]
 }
