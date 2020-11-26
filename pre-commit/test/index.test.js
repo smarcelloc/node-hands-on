@@ -1,3 +1,4 @@
+const { expect, test } = require('@jest/globals')
 const index = require('./../index')
 
 test('Verificar se a função dobro do index está funcionando', () => {
