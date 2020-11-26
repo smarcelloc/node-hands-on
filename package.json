@@ -2,6 +2,7 @@
   "dependencies": {
     "chalk": "^4.1.0",
     "cheerio": "^1.0.0-rc.3",
+    "cuid": "^2.1.8",
     "guid": "^0.0.12",
     "node-fetch": "^2.6.1",
     "request": "^2.88.2",
@@ -18,10 +19,12 @@
     "testando": "jest pre-commit",
     "style": "yarn style:fix && yarn style:check",
     "style:check": "standard | snazzy",
-    "style:fix": "standard --fix"
+    "style:fix": "standard --fix",
+    "git:add": "git add --all"
   },
   "pre-commit": [
     "testando",
-    "style"
+    "style",
+    "git:add"
   ]
 }
