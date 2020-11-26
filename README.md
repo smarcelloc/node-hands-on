@@ -16,6 +16,17 @@
 - **child_process**: Executar comando do terminal / console
 - **os**: Informação do sistema
 - **humanize-duration**: Eu tenho o tempo em milissegundos e quero que seja "3 dias, 1 hora".
+- **cron**: Agendar tarefas para executar (e-mail, leitura de arquivo, backup do DB...)
+  - Comando se encontra em https://www.npmjs.com/package/node-cron
+- ****:
+- ****:
+- ****:
+- ****:
+- ****:
+- ****:
+- ****:
+- ****:
+- ****:
 - ****:
 - ****:
 - ****:

@@ -3,6 +3,7 @@
     "chalk": "^4.1.0",
     "cheerio": "^1.0.0-rc.3",
     "child_process": "^1.0.2",
+    "cron": "^1.8.2",
     "cuid": "^2.1.8",
     "guid": "^0.0.12",
     "humanize-duration": "^3.24.0",
