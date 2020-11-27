@@ -9,6 +9,7 @@
     "cuid": "^2.1.8",
     "guid": "^0.0.12",
     "humanize-duration": "^3.24.0",
+    "jsome": "^2.5.0",
     "lowdb": "^1.0.0",
     "node-fetch": "^2.6.1",
     "open": "^7.3.0",
