@@ -43,7 +43,8 @@
   ],
   "standard": {
     "ignore": [
-      "marked/marked.js"
+      "marked/marked.js",
+      "react-app-create/*"
     ]
   }
 }

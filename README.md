@@ -27,6 +27,20 @@ Cada commit utiliza: git commit -a -m "..."
 - **jsome**: JSON no console de forma mais amigável
 - **SOAP**: Requisição por meio de SOAP
 - **Marked**: Convertendo markdown para HTML
+- **create-app-react**: Criar projetos com React
+- ****:
+- ****:
+- ****:
+- ****:
+- ****:
+- ****:
+- ****:
+- ****:
+- ****:
+- ****:
+- ****:
+- ****:
+- ****:
 - ****:
 - ****:
 - ****:
