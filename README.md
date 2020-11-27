@@ -20,7 +20,7 @@
   - Comando se encontra em https://www.npmjs.com/package/node-cron
 - **json-server**: Simulando uma API REST com JSON Server de maneira simples
 - **faker**: Gera grandes quantidades de dados fakers
-- ****:
+- **LowDB**: CRUD e Criar banco de dados em JSON
 - ****:
 - ****:
 - ****:

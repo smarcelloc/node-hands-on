@@ -1,0 +1,73 @@
+{
+  "posts": [
+    {
+      "id": "ckhzj9ply0000q3ln25r1e3uf",
+      "title": "suscipit enim",
+      "published": true
+    },
+    {
+      "id": "ckhzjaesd0000splnd3m22gmo",
+      "title": "itaque voluptatem",
+      "published": true
+    },
+    {
+      "id": "ckhzjahus0000tdlnce8w92ve",
+      "title": "illo veniam",
+      "published": true
+    },
+    {
+      "id": "ckhzjaisr0000u6lnagvfd3wj",
+      "title": "placeat corporis",
+      "published": true
+    },
+    {
+      "id": "ckhzjajku0000urln2ow340qn",
+      "title": "dolorum praesentium",
+      "published": false
+    },
+    {
+      "id": "ckhzjaqn80000vsln4bbb17ya",
+      "title": "in labore",
+      "published": false
+    },
+    {
+      "id": "ckhzjarer0000wdln4jaa9d70",
+      "title": "cupiditate placeat",
+      "published": true
+    },
+    {
+      "id": "ckhzjbyof0000zhlnemaq1tmw",
+      "title": "non qui",
+      "published": true
+    },
+    {
+      "id": "ckhzjcl5p00001pln9po8efat",
+      "title": "repudiandae voluptatem",
+      "published": false
+    },
+    {
+      "id": "ckhzjd3mf00003wln6r9n1acx",
+      "title": "magnam tempore",
+      "published": false
+    },
+    {
+      "id": "ckhzjebeg00008qln8z63cvvu",
+      "title": "omnis ratione",
+      "published": false
+    },
+    {
+      "id": "ckhzjer8s0000ajln30e1hdxt",
+      "title": "totam ea",
+      "published": false
+    },
+    {
+      "id": "ckhzlxsip0000qoln1mvz6lz5",
+      "title": "doloribus necessitatibus",
+      "published": false
+    }
+  ],
+  "user": {
+    "name": "Kay Nogueira"
+  },
+  "count": 13
+}

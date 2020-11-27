@@ -9,6 +9,7 @@
     "cuid": "^2.1.8",
     "guid": "^0.0.12",
     "humanize-duration": "^3.24.0",
+    "lowdb": "^1.0.0",
     "node-fetch": "^2.6.1",
     "os": "^0.1.1",
     "request": "^2.88.2",
@@ -31,7 +32,7 @@
     "json:server": "json-server --watch json-server/server.json"
   },
   "pre-commit": [
-    "testando",
-    "style"
+    "style",
+    "testando"
   ]
 }
