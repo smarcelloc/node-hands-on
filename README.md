@@ -1,5 +1,7 @@
 # Node Hands-On
 
+Cada commit utiliza: git commit -a -m "..."
+
 - **Nodemon**: Monitore alterações e reinicie automaticamente seus scripts
 - **Co**: Organize o fluxo de seu código assíncrono
 - **Standard**: Padronize o código fonte JavaScript da sua equipe
@@ -24,7 +26,7 @@
 - **open**: Abrir navegador pelo node
 - **jsome**: JSON no console de forma mais amigável
 - **SOAP**: Requisição por meio de SOAP
-- ****:
+- **Marked**: Convertendo markdown para HTML
 - ****:
 - ****:
 - ****:

@@ -11,6 +11,7 @@
     "humanize-duration": "^3.24.0",
     "jsome": "^2.5.0",
     "lowdb": "^1.0.0",
+    "marked": "^1.2.5",
     "node-fetch": "^2.6.1",
     "open": "^7.3.0",
     "os": "^0.1.1",
@@ -39,5 +40,10 @@
     "testando",
     "style",
     "git:add"
-  ]
+  ],
+  "standard": {
+    "ignore": [
+      "marked/marked.js"
+    ]
+  }
 }
