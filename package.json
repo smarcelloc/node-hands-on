@@ -11,6 +11,7 @@
     "humanize-duration": "^3.24.0",
     "lowdb": "^1.0.0",
     "node-fetch": "^2.6.1",
+    "open": "^7.3.0",
     "os": "^0.1.1",
     "request": "^2.88.2",
     "shelljs": "^0.8.4"
@@ -29,10 +30,12 @@
     "style": "yarn style:fix && yarn style:check",
     "style:check": "standard | snazzy",
     "style:fix": "standard --fix",
-    "json:server": "json-server --watch json-server/server.json"
+    "json:server": "json-server --watch json-server/server.json",
+    "git:add": "node git.js"
   },
   "pre-commit": [
+    "testando",
     "style",
-    "testando"
+    "git:add"
   ]
 }
