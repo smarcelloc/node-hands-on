@@ -23,7 +23,7 @@
 - **LowDB**: CRUD e Criar banco de dados em JSON
 - **open**: Abrir navegador pelo node
 - **jsome**: JSON no console de forma mais amigável
-- ****:
+- **SOAP**: Requisição por meio de SOAP
 - ****:
 - ****:
 - ****:

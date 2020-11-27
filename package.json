@@ -15,7 +15,8 @@
     "open": "^7.3.0",
     "os": "^0.1.1",
     "request": "^2.88.2",
-    "shelljs": "^0.8.4"
+    "shelljs": "^0.8.4",
+    "soap": "^0.35.0"
   },
   "devDependencies": {
     "faker": "^5.1.0",
