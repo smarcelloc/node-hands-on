@@ -28,7 +28,7 @@ Cada commit utiliza: git commit -a -m "..."
 - **SOAP**: Requisição por meio de SOAP
 - **Marked**: Convertendo markdown para HTML
 - **create-app-react**: Criar projetos com React
-- ****:
+- **rimraf**: Remova diretórios inteiros mesmo que eles não estejam vazios
 - ****:
 - ****:
 - ****:
