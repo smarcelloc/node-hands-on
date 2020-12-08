@@ -32,7 +32,7 @@ Cada commit utiliza: git commit -a -m "..."
 - **create-app-react**: Criar projetos com React
 - **rimraf**: Remova diretórios inteiros mesmo que eles não estejam vazios
 - **Jest**: Como utilizar a ferramenta de testes criada pelo Facebook
-- ****:
+- **Roman-numerals**: Convertendo números para alg. Romanos 
 - ****:
 - ****:
 - ****:
