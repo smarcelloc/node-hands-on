@@ -33,9 +33,9 @@ Cada commit utiliza: git commit -a -m "..."
 - **rimraf**: Remova diretórios inteiros mesmo que eles não estejam vazios
 - **Jest**: Como utilizar a ferramenta de testes criada pelo Facebook
 - **Roman-numerals**: Convertendo números para alg. Romanos 
-- ****:
-- ****:
-- ****:
+- **Generator-Express**: Gere seu projeto em Express.
+- **express-generator-api**: Gere seu projeto em Express API.
+- **express-generator-typescript**: Gere seu projeto em Express API com Typescript.
 - ****:
 - ****:
 - ****:

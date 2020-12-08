@@ -16,3 +16,4 @@ FROM mcr.microsoft.com/vscode/devcontainers/javascript-node:0-${VARIANT}
 RUN sudo -u node npm install -g standard
 RUN sudo -u node npm install -g snazzy
 RUN sudo -u node npm install -g create-react-app
+RUN sudo -u node npm install -g express-generator

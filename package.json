@@ -50,7 +50,8 @@
       "marked/marked.js",
       "react-app-create/*",
       "jest/**/*.test.js",
-      "funcoes/*.js"
+      "funcoes/*.js",
+      "express-generator/"
     ]
   }
 }
