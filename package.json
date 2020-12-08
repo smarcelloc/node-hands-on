@@ -41,8 +41,6 @@
     "test": "jest"
   },
   "pre-commit": [
-    "testando",
-    "style",
     "git:add"
   ],
   "standard": {
