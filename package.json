@@ -31,12 +31,13 @@
     "standard": "^16.0.3"
   },
   "scripts": {
-    "testando": "jest pre-commit",
+    "testando": "jest pre-commit --passWithNoTests",
     "style": "yarn style:fix && yarn style:check",
     "style:check": "standard | snazzy",
     "style:fix": "standard --fix",
     "json:server": "json-server --watch json-server/server.json",
-    "git:add": "node git.js"
+    "git:add": "node git.js",
+    "test": "jest"
   },
   "pre-commit": [
     "testando",
@@ -46,7 +47,8 @@
   "standard": {
     "ignore": [
       "marked/marked.js",
-      "react-app-create/*"
+      "react-app-create/*",
+      "jest/**/*.test.js"
     ]
   }
 }
