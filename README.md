@@ -2,6 +2,8 @@
 
 Cada commit utiliza: git commit -a -m "..."
 
+## Frameworks
+
 - **Nodemon**: Monitore alterações e reinicie automaticamente seus scripts
 - **Co**: Organize o fluxo de seu código assíncrono
 - **Standard**: Padronize o código fonte JavaScript da sua equipe
@@ -29,6 +31,7 @@ Cada commit utiliza: git commit -a -m "..."
 - **Marked**: Convertendo markdown para HTML
 - **create-app-react**: Criar projetos com React
 - **rimraf**: Remova diretórios inteiros mesmo que eles não estejam vazios
+- **Jest**: Como utilizar a ferramenta de testes criada pelo Facebook
 - ****:
 - ****:
 - ****:
@@ -51,6 +54,18 @@ Cada commit utiliza: git commit -a -m "..."
 - ****:
 - ****:
 - ****:
+- ****:
+- ****:
+- ****:
+
+## Dicas & ferramentas
+
+- **Generators Functions**: que retorna um objeto Generator
+- **Currying**: Uma técnica interessante usada em programação funcional
+- **Flexbox - CSS**: 
+  - **Flexy Boxes**: https://the-echoplex.net/flexyboxes/
+  - **Loading.io**: https://loading.io/flexbox/
+  - **Visual guide to css3 Flexbox**: https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/
 - ****:
 - ****:
 - ****:
