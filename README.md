@@ -39,7 +39,7 @@ Cada commit utiliza: git commit -a -m "..."
 - **NPM-Introspect**: Verifique a qualidade das dependências de seu projeto. (GLOBAL)
 - **ms**: Convertendo timestamps
 - **Minimist**: Argumentos com nome no NodeJS
-- ****:
+- **Variável de Ambiente**: Comunicar com pacote (node `ini` & `dotenv`)
 - ****:
 - ****:
 - ****:
