@@ -38,7 +38,7 @@ Cada commit utiliza: git commit -a -m "..."
 - **PKG**: Transforme seu aplicativo node em um executável (Global)
 - **NPM-Introspect**: Verifique a qualidade das dependências de seu projeto. (GLOBAL)
 - **ms**: Convertendo timestamps
-- ****:
+- **Minimist**: Argumentos com nome no NodeJS
 - ****:
 - ****:
 - ****:
