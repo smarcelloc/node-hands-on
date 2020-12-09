@@ -2,6 +2,7 @@
   "license": "ISC",
   "private": true,
   "dependencies": {
+    "bad-words": "^3.0.4",
     "chalk": "^4.1.0",
     "cheerio": "^1.0.0-rc.3",
     "child_process": "^1.0.2",

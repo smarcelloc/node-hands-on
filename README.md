@@ -40,7 +40,7 @@ Cada commit utiliza: git commit -a -m "..."
 - **ms**: Convertendo timestamps
 - **Minimist**: Argumentos com nome no NodeJS
 - **Variável de Ambiente**: Comunicar com pacote (node `ini` & `dotenv`)
-- ****:
+- **bad-words**: Removendo bad-words (palavrões) de um texto
 - ****:
 - ****:
 - ****:
